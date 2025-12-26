@@ -46,6 +46,10 @@
 ## Output:
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 181729" src="https://github.com/user-attachments/assets/9df14d52-73a1-487a-bbe2-4151c6e6f62a" />
+<img width="522" height="627" alt="Screenshot 2025-12-26 164115" src="https://github.com/user-attachments/assets/c01c6ccc-9f0c-41f4-b4e6-1bcb335510ee" />
+<img width="514" height="682" alt="Screenshot 2025-12-26 164127" src="https://github.com/user-attachments/assets/92f8928a-4f7e-458a-bd6d-3aa804cb47aa" />
+
+
 
 
 ### Name: Tharun S
